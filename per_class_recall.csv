@@ -1,0 +1,7 @@
+model,split,Cyst,Normal,Stone,Tumor
+hog_svm,block,100.0,100.0,100.0,100.0
+hog_svm,group,38.0,16.4,33.3,2.6
+cnn,block,89.2,100.0,100.0,100.0
+cnn,group,100.0,59.0,60.0,0.0
+resnet18,block,98.5,100.0,100.0,100.0
+resnet18,group,71.7,80.5,100.0,32.9
